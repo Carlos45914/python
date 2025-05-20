@@ -12,3 +12,4 @@ divsao = 2 / 1
 
 # operador de exponenciacao
 exponenciacao = 2 ** 1
+
