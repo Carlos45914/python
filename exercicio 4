@@ -1,0 +1,6 @@
+p = int(input("digite a população mundial"))
+taxa_crescimento = float(input("digite a taxa anual de cresciemnto (%):"))
+taxa_decimal = taxa_crescimento / 100
+for ano in range(1, 6):
+  p += p *  taxa_decimal
+  print(f"ano {ano}: {int(p)}")
