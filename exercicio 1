@@ -1,0 +1,13 @@
+
+num1 = int(input("digite um numero inteiro "))
+num2 = int(input("digite outro numero inteiro"))
+
+soma =  num1 + num2
+produto = num1 * num2
+diferença = num1 - num2 
+quociente = num1 / num2
+
+print(f"soma: {soma}")
+print(f"produto: {produto}")
+print(f"diferença {diferença}")
+print (f"quociente: {quociente}")
