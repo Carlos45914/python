@@ -1,0 +1,13 @@
+num = int(input("digite um numero de conco digitos "))
+
+di1 = num // 10000
+di2 = (num // 1000) % 10
+di3 = (num // 100) % 10
+di4 = (num // 10) % 10
+di5 = num % 10
+ 
+print(di1)
+print(di2)
+print(di3)
+print(di4)
+print(di5)
