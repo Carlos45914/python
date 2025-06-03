@@ -13,9 +13,6 @@ print(f"diferença {diferença}")
 print (f"quociente: {quociente}")
 
 
-
-
-
 #exercicio 2
 num = int(input("digite um numero de conco digitos "))
 
