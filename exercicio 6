@@ -1,0 +1,4 @@
+print("Número\tQuadrado\tCubo")
+for i in range(11):
+    print(f"{i}\t{i**2}\t\t{i**3}")
+     
